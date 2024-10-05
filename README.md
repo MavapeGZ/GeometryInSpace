@@ -43,7 +43,7 @@ To run Geometry in Space, you need to have Processing installed on your computer
 3. Use WASD to move around the shape.
 
 #### License
-*This software is free to use but it comes with no warranty. ISC License.*
+*This software is free to use but it comes with no warranty. MIT License.*
 
 #### Contact
 For any inquiries, please contact Mario Vázquez Pérez at mario.vperez03@gmail.com
