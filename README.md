@@ -46,6 +46,6 @@ To run Geometry in Space, you need to have Processing installed on your computer
 *This software is free to use but it comes with no warranty. ISC License.*
 
 #### Contact
-For any inquiries, please contact Mario Vázquez Pérez at mavape4403@gmail.com
+For any inquiries, please contact Mario Vázquez Pérez at mario.vperez03@gmail.com
 
 *This project was developed for **Computer Graphic Elements** subject in the University of Oradea.*
